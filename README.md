@@ -12,8 +12,7 @@ Import panda as pd.
 use pd.read_csv to find weight and volume. 
 
 ### Step3
-Run the program
-
+Run the program and take the screenshot of the output
 ### Step4
 End of the program
 
@@ -37,12 +36,6 @@ print('Intercept:',regr.intercept_)
  
 predictedCO2 = regr.predict([[3300,1300]])
 print('predicted CO2 for the corresponding weight and volume',predictedCO2)
-
-
-
-
-
-
 ```
 ## Output:
 
